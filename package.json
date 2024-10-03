@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "bottleneck": "^2.19.5",
-    "deepl-node": "https://github.com/FutureMind/deepl-node#617cf383"
+    "deepl-node": "https://github.com/FutureMind/deepl-node#3913101"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.0",
