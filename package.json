@@ -56,10 +56,10 @@
   },
   "peerDependencies": {
     "lodash": "*",
-    "strapi-plugin-translate": "1.2.5"
+    "strapi-plugin-translate": "2.0.0-next.3"
   },
   "engines": {
-    "node": ">=14 <=20",
+    "node": ">=20 <=20",
     "npm": ">=6.0.0"
   }
 }
